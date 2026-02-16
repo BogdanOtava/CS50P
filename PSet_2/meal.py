@@ -1,3 +1,5 @@
+# https://cs50.harvard.edu/python/psets/1/meal/
+
 def main():
     query = input("What time is it? ")
 
