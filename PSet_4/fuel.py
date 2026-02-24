@@ -30,7 +30,7 @@ def check_fuel() -> str:
             elif result > 75:
                 return "F"
             else:
-                return str(f"{result:.0f}%")
+                return f"{result:.0f}%"
 
 
 main()
